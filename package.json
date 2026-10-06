@@ -1,0 +1,19 @@
+{
+  "name": "bugatti-chiron-showroom",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A real-time Bugatti Chiron configurator in the browser, built with Next.js and three.js.",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "n8ao": "^1.10.3",
+    "next": "^16.3.8",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "three": "^0.170.0"
+  }
+}
